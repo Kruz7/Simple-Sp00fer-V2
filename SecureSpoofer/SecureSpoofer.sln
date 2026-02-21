@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SecureSpoofer", "SecureSpoofer\SecureSpoofer.csproj", "{A04049A6-61D1-4F84-96F4-1B229F81EF12}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A04049A6-61D1-4F84-96F4-1B229F81EF12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A04049A6-61D1-4F84-96F4-1B229F81EF12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A04049A6-61D1-4F84-96F4-1B229F81EF12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A04049A6-61D1-4F84-96F4-1B229F81EF12}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7AA64F3D-6AF0-491B-B70D-562F8618D326}
+	EndGlobalSection
+EndGlobal

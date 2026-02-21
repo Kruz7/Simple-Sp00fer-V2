@@ -1,0 +1,17 @@
+C:\Users\Kruz\Desktop\secure\SecureSpoofer\SecureSpoofer\obj\Debug\net8.0-windows\SecureSpoofer.Form1.resources
+C:\Users\Kruz\Desktop\secure\SecureSpoofer\SecureSpoofer\obj\Debug\net8.0-windows\SecureSpoofer.Properties.Resources.resources
+C:\Users\Kruz\Desktop\secure\SecureSpoofer\SecureSpoofer\obj\Debug\net8.0-windows\SecureSpoofer.csproj.GenerateResource.cache
+C:\Users\Kruz\Desktop\secure\SecureSpoofer\SecureSpoofer\obj\Debug\net8.0-windows\SecureSpoofer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kruz\Desktop\secure\SecureSpoofer\SecureSpoofer\obj\Debug\net8.0-windows\SecureSpoofer.AssemblyInfoInputs.cache
+C:\Users\Kruz\Desktop\secure\SecureSpoofer\SecureSpoofer\obj\Debug\net8.0-windows\SecureSpoofer.AssemblyInfo.cs
+C:\Users\Kruz\Desktop\secure\SecureSpoofer\SecureSpoofer\obj\Debug\net8.0-windows\SecureSpoofer.csproj.CoreCompileInputs.cache
+C:\Users\Kruz\Desktop\secure\SecureSpoofer\SecureSpoofer\bin\Debug\net8.0-windows\SecureSpoofer.exe
+C:\Users\Kruz\Desktop\secure\SecureSpoofer\SecureSpoofer\bin\Debug\net8.0-windows\SecureSpoofer.deps.json
+C:\Users\Kruz\Desktop\secure\SecureSpoofer\SecureSpoofer\bin\Debug\net8.0-windows\SecureSpoofer.runtimeconfig.json
+C:\Users\Kruz\Desktop\secure\SecureSpoofer\SecureSpoofer\bin\Debug\net8.0-windows\SecureSpoofer.dll
+C:\Users\Kruz\Desktop\secure\SecureSpoofer\SecureSpoofer\bin\Debug\net8.0-windows\SecureSpoofer.pdb
+C:\Users\Kruz\Desktop\secure\SecureSpoofer\SecureSpoofer\obj\Debug\net8.0-windows\SecureSpoofer.dll
+C:\Users\Kruz\Desktop\secure\SecureSpoofer\SecureSpoofer\obj\Debug\net8.0-windows\refint\SecureSpoofer.dll
+C:\Users\Kruz\Desktop\secure\SecureSpoofer\SecureSpoofer\obj\Debug\net8.0-windows\SecureSpoofer.pdb
+C:\Users\Kruz\Desktop\secure\SecureSpoofer\SecureSpoofer\obj\Debug\net8.0-windows\SecureSpoofer.genruntimeconfig.cache
+C:\Users\Kruz\Desktop\secure\SecureSpoofer\SecureSpoofer\obj\Debug\net8.0-windows\ref\SecureSpoofer.dll
